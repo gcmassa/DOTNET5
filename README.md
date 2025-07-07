@@ -1,5 +1,3 @@
----
-
 # 📘 Explicativo da Classe `Calculadora` em C#
 
 ## 📂 Namespace e Estrutura
