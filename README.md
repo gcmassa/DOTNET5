@@ -21,7 +21,6 @@
 ### ✖️ `Multplicar(int x, int y)`
 - Realiza a multiplicação de dois inteiros.
 - Exibe o resultado no formato: `x X y = resultado`.
-- ⚠️ Observação: o nome do método contém um pequeno erro de digitação — o correto seria `Multiplicar`.
 
 ### ➗ `Dividir(int x, int y)`
 - Realiza a divisão inteira de dois números.
