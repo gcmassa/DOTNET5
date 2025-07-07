@@ -1,0 +1,14 @@
+C:\Users\Giancarlo\programacao\DOTNET5\OperadoresAritmeticos\bin\Debug\net9.0\OperadoresAritmeticos.exe
+C:\Users\Giancarlo\programacao\DOTNET5\OperadoresAritmeticos\bin\Debug\net9.0\OperadoresAritmeticos.deps.json
+C:\Users\Giancarlo\programacao\DOTNET5\OperadoresAritmeticos\bin\Debug\net9.0\OperadoresAritmeticos.runtimeconfig.json
+C:\Users\Giancarlo\programacao\DOTNET5\OperadoresAritmeticos\bin\Debug\net9.0\OperadoresAritmeticos.dll
+C:\Users\Giancarlo\programacao\DOTNET5\OperadoresAritmeticos\bin\Debug\net9.0\OperadoresAritmeticos.pdb
+C:\Users\Giancarlo\programacao\DOTNET5\OperadoresAritmeticos\obj\Debug\net9.0\OperadoresAritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giancarlo\programacao\DOTNET5\OperadoresAritmeticos\obj\Debug\net9.0\OperadoresAritmeticos.AssemblyInfoInputs.cache
+C:\Users\Giancarlo\programacao\DOTNET5\OperadoresAritmeticos\obj\Debug\net9.0\OperadoresAritmeticos.AssemblyInfo.cs
+C:\Users\Giancarlo\programacao\DOTNET5\OperadoresAritmeticos\obj\Debug\net9.0\OperadoresAritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\Giancarlo\programacao\DOTNET5\OperadoresAritmeticos\obj\Debug\net9.0\OperadoresAritmeticos.dll
+C:\Users\Giancarlo\programacao\DOTNET5\OperadoresAritmeticos\obj\Debug\net9.0\refint\OperadoresAritmeticos.dll
+C:\Users\Giancarlo\programacao\DOTNET5\OperadoresAritmeticos\obj\Debug\net9.0\OperadoresAritmeticos.pdb
+C:\Users\Giancarlo\programacao\DOTNET5\OperadoresAritmeticos\obj\Debug\net9.0\OperadoresAritmeticos.genruntimeconfig.cache
+C:\Users\Giancarlo\programacao\DOTNET5\OperadoresAritmeticos\obj\Debug\net9.0\ref\OperadoresAritmeticos.dll
